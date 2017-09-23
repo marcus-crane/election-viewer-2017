@@ -1,8 +1,12 @@
 # Election Viewer 2017
 
+![A screenshot of the Election Viewer running](preview.png?raw=true)
+
 ## What is this?
 
-It's a hacky Python 3 script that scrapes the Elections site every 5 seconds giving the illusion of real time updates. I don't think they have eg; a JSON API otherwise I'd use that *shrug*
+It's a hacky Python 3 script that scrapes the Elections site every 5 seconds giving the illusion of real time updates.
+
+I don't think they have a JSON API otherwise I'd use that *shrug*
 
 ## What do I need?
 
